@@ -15,7 +15,8 @@ rem=0
 if(no==res)  #check for org no & processed no is same
 	puts "Number is Amstrong"
 	puts "its true"
-        puts " its a good result"
+  puts " its a good result"
+	puts "bfjkdhkfj"
 else
 	puts "Number is not Amstrong"
 end
